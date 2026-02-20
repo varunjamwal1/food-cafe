@@ -1,0 +1,25 @@
+@theme {
+  /* Brand Colors (Food Feel) */
+  --color-primary: #E11D48;        /* Rich Tomato Red */
+  --color-primary-hover: #BE123C;
+
+  --color-secondary: #F97316;      /* Fresh Orange */
+  --color-secondary-hover: #EA580C;
+
+  /* Backgrounds */
+  --color-background: #FFF7ED;     /* Warm Cream */
+  --color-surface: #FFFFFF;        /* Clean white */
+  --color-card: #FFEDD5;           /* Soft food card */
+  --color-border: #FED7AA;
+
+  /* Text */
+  --color-text-primary: #3F1D0B;   /* Dark Brown */
+  --color-text-secondary: #7C2D12;
+  --color-text-muted: #A16207;
+
+  /* Status */
+  --color-success: #16A34A;        /* Fresh food ready */
+  --color-danger: #DC2626;         /* Out of stock */
+  --color-warning: #FACC15;        /* spicy */
+  --color-info: #0EA5E9;
+}

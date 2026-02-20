@@ -1,0 +1,3 @@
+varunjamwal933_db_user
+9iZC1wPm2TcSJBuPmongodb+srv://varunjamwal933_db_user:9iZC1wPm2TcSJBuP@food-cafe.lnx2u5t.mongodb.net/
+mongodb+srv://varunjamwal933_db_user:<db_password>@food-cafe.lnx2u5t.mongodb.net/?appName=food-cafe

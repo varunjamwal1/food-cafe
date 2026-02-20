@@ -1,0 +1,7 @@
+export {default as Home}from '../componets/Home.jsx'
+export {default as Orders}from './order.jsx'
+export {default as Auth}from './auths.jsx'
+export {default as Table}from './Table.jsx'
+export {default as Menu}from './Menu.jsx'
+export {default as Items}from './Items.jsx'
+export {default as Dashboard}from './Dashboard.jsx'
